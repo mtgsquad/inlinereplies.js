@@ -1,6 +1,6 @@
 {
   "name": "inlinereplies.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Library which extends Discord.JS v12 to add inline replies",
   "main": "index.js",
   "scripts": {
