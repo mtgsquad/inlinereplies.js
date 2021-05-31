@@ -1,0 +1,14 @@
+{
+  "name": "inlinereplies.js",
+  "version": "1.0.0",
+  "description": "A Library which extends Discord.JS v12 to add inline replies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MTGSquad",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
